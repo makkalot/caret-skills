@@ -1,0 +1,4 @@
+interface:
+  display_name: "XCI Kanban"
+  short_description: "Inspect and update XCI kanban boards"
+  default_prompt: "Use $xci-kanban to show my current in-progress cards."

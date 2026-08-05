@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Workflow"
+  short_description: "Manage PRs, CI failures, and PR comments"
+  default_prompt: "Use $github-workflow to check failed CI for owner/repo PR 123."
